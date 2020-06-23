@@ -13,9 +13,10 @@ You can run Launch_Template in a docker container
 
 
 ```
-docker pull beznas/coming_soon
-docker run -it -p 80:80 beznas/coming_soon
+1. docker pull beznas/coming_soon
+2. docker run -it -p 80:80 beznas/coming_soon
+3. http://localhost
 ```
-http://localhost
+
 
 #### demo/demo

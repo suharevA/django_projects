@@ -17,4 +17,5 @@ docker pull beznas/coming_soon
 docker run -it -p 80:80 beznas/coming_soon
 ```
 http://localhost
-db: demo/demo
+
+#### demo/demo

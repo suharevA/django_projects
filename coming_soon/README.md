@@ -5,7 +5,7 @@ With saving email address
 ```
 pip3 install -r requirements.txt
 ```
-db: demo/demo
+
 
 
 #  Dockerfile
@@ -17,3 +17,4 @@ docker pull beznas/coming_soon
 docker run -it -p 80:80 beznas/coming_soon
 ```
 http://localhost
+db: demo/demo

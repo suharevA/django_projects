@@ -4,5 +4,6 @@
 
     Beautiful start page.
 
-   ![Picture](https://github.com/suharevA/django_projects/tree/master/coming_soon/static/img/com.jpg)
+
+![img](https://github.com/suharevA/django_projects/tree/master/coming_soon/static/img/com.jpg)
 

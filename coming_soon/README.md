@@ -8,7 +8,7 @@ With saving email address
     Beautiful start page.
 
 
-    ![](coming_soon/static/img/com.png)
+    ![](django_projects/coming_soon/static/img/com.jpg)
     
 ## installation for pip:
 ```

@@ -1,9 +1,7 @@
 # Beautiful Template Coming Soon.
 With saving email address 
 
-# django_projects
 
-1. **coming_soon**
 
     Beautiful start page.
 

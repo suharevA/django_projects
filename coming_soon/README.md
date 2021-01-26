@@ -1,12 +1,7 @@
 # Beautiful Template Coming Soon.
 With saving email address 
 
-
-
-    Beautiful start page.
-
-
-    ![](static/img/com.jpg)
+![](static/img/com.jpg)
     
 ## installation for pip:
 ```

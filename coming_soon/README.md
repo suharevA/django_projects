@@ -1,6 +1,15 @@
 # Beautiful Template Coming Soon.
 With saving email address 
 
+# django_projects
+
+1. **coming_soon**
+
+    Beautiful start page.
+
+
+    ![](coming_soon/static/img/com.png)
+    
 ## installation for pip:
 ```
 pip3 install -r requirements.txt
